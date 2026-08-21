@@ -1,0 +1,29 @@
+# ─── Site identity ────────────────────────────────────────────────────────
+title: Videlock Lab
+description: >-
+  Laboratory safety information, standard operating procedures, and
+  resources for the Videlock Lab, UCLA David Geffen School of Medicine.
+url: "https://videlocklab.com"
+baseurl: ""
+
+# ─── Theme ────────────────────────────────────────────────────────────────
+# Built into GitHub Pages. No build step, no gems to install, nothing to
+# break. This is deliberately the boring choice for a first setup.
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# UPGRADE PATH — when the SOP list outgrows a flat page and you want a
+# sidebar + real search, comment out the two lines above and uncomment
+# these two. The `nav_order` fields already in the page front matter are
+# there so that switch is a one-line change, not a rewrite.
+#
+# remote_theme: just-the-docs/just-the-docs
+# search_enabled: true
+
+# ─── Build ────────────────────────────────────────────────────────────────
+exclude:
+  - README.md
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - .DS_Store
