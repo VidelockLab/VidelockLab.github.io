@@ -9,56 +9,72 @@ permalink: /safety/training/
 
 What has to be complete **before** bench work starts, and what renews.
 
-Enrolment is through the UC Learning Center.
+Courses are on Worksafe — search by the course ID, which must match exactly. UCLA single sign-on required.
 
-**Start here: the [UCLA EH&S Research Safety Training Guide](https://ucla.app.box.com/v/EHS-trainingmatrix)** — the full matrix of who needs which course. The list below is the subset that applies to this lab; the matrix is the authority, and it is where to check when a role or a hazard changes.
+**The authority is the [UCLA EH&S Research Safety Training Guide](https://ucla.app.box.com/v/EHS-trainingmatrix)**, a one-page matrix of who needs which course. The tables below are the subset that applies to this lab. When a role or a hazard changes, go back to the matrix.
 
 ---
 
-## Before you start
+## Everyone who works at UCLA
 
-| Requirement | Code | Interval |
+| Course | Frequency | Course ID |
 |---|---|---|
-| NIH Guidelines for UCLA Researchers: IBC Compliance Training | — | Once — prerequisite for every biosafety course below |
-| Laboratory Safety Fundamental Concepts — **in class or online** | LAB-LSFC | Initial |
-| Lab Safety Fundamental Concepts Online Refresher | LAB-LABOR | Annual |
-| Bloodborne Pathogens Training | BIO-BBP | Initial |
-| Bloodborne Pathogens Online Refresher | BIO-BBPOR-OL | Annual |
-| Biosafety Level 2 | — | Every 3 years |
-| Biological Safety Cabinet | — | Every 3 years |
-| Medical Waste Management | — | Every 3 years |
-| Hazardous Chemical Waste Training | — | Once |
+| Injury & Illness Prevention Program | Annual | UC Learning |
 
-## If you work with animals
+## Everyone in a wet lab or vivarium
 
-| Requirement | Where | Interval |
+| Course | Frequency | Course ID |
 |---|---|---|
-| Waste Anesthetic Gas (WAG) | Worksafe | Annual |
-| DLAM species-specific training | DLAM | Per DLAM |
-| Occupational Health Medical History Questionnaire | Occupational Health | Per Occupational Health |
-| Listed on the ARC protocol | RATS | Before starting |
+| Laboratory Safety Fundamentals | Once | `LAB-LSFC-OL` |
+| LSF Online Refresher | Annual | `LAB-LABOR` |
+| Chemical Hygiene Plan | Annual | `LAB-CHP-OL` |
+| Site Safety Orientation Checklist | Once | Form |
 
-## Beyond safety
+## Principal investigators
 
-Safety training is only part of what has to be complete before someone starts. Depending on the work, there is also human subjects and privacy training, animal handling and protocol-specific training, and research conduct training — none of which appears in the EH&S matrix.
+| Course | Frequency | Course ID |
+|---|---|---|
+| PI Orientation with EH&S — *invite-only* | Once | `LAB-LABPI` |
+| LSF Online Refresher | Annual | `LAB-LABOR` |
 
-Lab members: the full onboarding checklist, safety and non-safety together, is in the lab's Slack. It exists as one list on purpose — "what do I need before I start?" is one question, and splitting the answer across two places is how half of it gets missed.
+## Working with biohazardous materials
+
+| Course | Frequency | Course ID |
+|---|---|---|
+| NIH Guidelines for UCLA Researchers: IBC Compliance Training | Once | `BIO-IBC-OL` |
+| Whatever the PI's BUA requires | Varies | SafetyNet |
+
+The BUA is what determines the agent-specific biosafety courses — bloodborne pathogens, biosafety level 2, biosafety cabinet use, medical waste. The matrix does not list them because they depend on the protocol, not the room. Check the BUA on SafetyNet, not this page.
+
+## Working with live vertebrate animals
+
+| Requirement | Frequency | Where |
+|---|---|---|
+| Medical History Questionnaire (MHQ) | Annual | [mhq.healthsciences.ucla.edu](https://mhq.healthsciences.ucla.edu) |
+| Whatever the PI's ARC protocol requires | Varies | RATS; DLAM |
+
+## Using anesthetic gases
+
+| Course | Frequency | Course ID |
+|---|---|---|
+| Waste Anesthetic Gas | Annual | `ENV-WAG-OL` |
+
+## Other things that trigger training
+
+Controlled substances (`RAD-CTRLS`, once) · respirator use (Hazard Evaluation Form, then `ENV-RESP-OL` annually) · lasers · radioactive materials · radiation-producing machines · shop machinery · lockout-tagout · hot work · field work outside a campus lab.
+
+None of these applies to routine work here, but any of them can start applying the moment a new technique or instrument arrives. That is when to reopen the [matrix](https://ucla.app.box.com/v/EHS-trainingmatrix).
 
 ---
 
-## Also required
+## Beyond EH&S
 
-- Added as a Team Member on the Biological Use Authorization in SafetyNet
-- Hepatitis B vaccination offered, and accepted or formally declined, for anyone handling human material
-- **Lab-specific training** — reading the laboratory safety manual and signing the training record, annually and at onboarding
-- A walk-through of the lab with the PI: eyewash, shower, extinguisher, spill kits, waste, exits
+Safety training is only part of what has to be complete before someone starts. Animal work carries its own sequence — CITI modules, a DLAM wet lab, and a vivarium walk-through, in that order, and only once you are listed on the ARC protocol. There is also lab-specific training that no online module can cover.
 
----
-
-## Why the lab-specific part matters
-
-UCLA's courses teach the general rules. The lab-specific training is where you learn what *this* lab actually does — which room a given vector may be used in, how long injected animals stay in containment, and which tubes are never opened outside a cabinet. It is the part no online module can cover, and it is required before experimental work and at least annually thereafter.
+Lab members: the full onboarding checklist — safety, animal, and lab-specific in one list — is in the lab's Slack. It exists as one list on purpose. "What do I need before I start?" is one question, and splitting the answer across several places is how half of it gets missed.
 
 ---
 
-[← All safety pages](/safety/) · [Procedures](/safety/sops/) · [UCLA EH&S Research Safety Training Guide](https://ucla.app.box.com/v/EHS-trainingmatrix)
+*Course IDs and frequencies from the UCLA EH&S Research Safety Training Guide, rev. 05/11/22, read 23 August 2026.*
+
+[← All safety pages](/safety/) · [Procedures](/safety/sops/) · [Research Safety Training Guide](https://ucla.app.box.com/v/EHS-trainingmatrix)
