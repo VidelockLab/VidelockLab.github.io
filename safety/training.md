@@ -33,11 +33,11 @@ This lab works with human cell lines and specimens, so the biohazard courses app
 | Course | Course ID | How often |
 |---|---|---|
 | NIH Guidelines / IBC Compliance — **do this first** | `BIO-IBC-OL` | Once |
-| Bloodborne Pathogens | `BIO-BBP` | Once |
+| Bloodborne Pathogens | `BIO-BBP-OL` | Once |
 | Bloodborne Pathogens Refresher | `BIO-BBPOR-OL` | Annual |
-| Biosafety Level 2 | — | Every 3 years |
-| Biological Safety Cabinet | — | Every 3 years |
-| Medical Waste Management | — | Every 3 years |
+| Biosafety Level 2 | `BIO-BSL2-OL` | Every 3 years |
+| Biological Safety Cabinet | `BIO-BSC-OL` | Every 3 years |
+| Medical Waste Management | `BIO-MWM-OL` | Every 3 years |
 
 ### Paperwork
 
@@ -87,15 +87,13 @@ The first time in, CITI shows a page called **Select Curriculum**. Section One a
 
 | Box | |
 |---|---|
-| I conduct human subjects research (OHRPP) | Only if you are on an IRB protocol — ask the PI |
+| I conduct human subjects research (OHRPP) | Only if you are on an IRB protocol |
 | I conduct animal research | Yes, if Part 2 applies to you |
 | Hazardous biological material or recombinant / synthetic nucleic acids (IBC) | Yes — everyone in this lab |
 
 Then answer the follow-up questions for each box you ticked. Under animal research, choose **Animal Research (ARC General Certification Test)** and **Working with Mice in Research Settings**.
 
 Download your completion certificates when you finish. The mouse one is needed at the DLAM wet lab.
-
-If the curriculum page looks wrong, ask before guessing — it is easier to fix before starting than after.
 
 ---
 
