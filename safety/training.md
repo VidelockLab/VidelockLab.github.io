@@ -7,74 +7,104 @@ permalink: /safety/training/
 
 # Training
 
-What has to be complete **before** bench work starts, and what renews.
+Everything to complete before bench work starts. This covers more than safety — animal training and the CITI courses are here too, so there is one list rather than three.
 
-Courses are on Worksafe — search by the course ID, which must match exactly. UCLA single sign-on required.
+**Two parts. Everyone does Part 1. Do Part 2 as well if you will work with animals.**
 
-**The authority is the [UCLA EH&S Research Safety Training Guide](https://ucla.app.box.com/v/EHS-trainingmatrix)**, a one-page matrix of who needs which course. The tables below are the subset that applies to this lab. When a role or a hazard changes, go back to the matrix.
-
----
-
-## Everyone who works at UCLA
-
-| Course | Frequency | Course ID |
-|---|---|---|
-| Injury & Illness Prevention Program | Annual | UC Learning |
-
-## Everyone in a wet lab or vivarium
-
-| Course | Frequency | Course ID |
-|---|---|---|
-| Laboratory Safety Fundamentals | Once | `LAB-LSFC-OL` |
-| LSF Online Refresher | Annual | `LAB-LABOR` |
-| Chemical Hygiene Plan | Annual | `LAB-CHP-OL` |
-| Site Safety Orientation Checklist | Once | Form |
-
-## Principal investigators
-
-| Course | Frequency | Course ID |
-|---|---|---|
-| PI Orientation with EH&S — *invite-only* | Once | `LAB-LABPI` |
-| LSF Online Refresher | Annual | `LAB-LABOR` |
-
-## Working with biohazardous materials
-
-| Course | Frequency | Course ID |
-|---|---|---|
-| NIH Guidelines for UCLA Researchers: IBC Compliance Training | Once | `BIO-IBC-OL` |
-| Whatever the PI's BUA requires | Varies | SafetyNet |
-
-The BUA is what determines the agent-specific biosafety courses — bloodborne pathogens, biosafety level 2, biosafety cabinet use, medical waste. The matrix does not list them because they depend on the protocol, not the room. Check the BUA on SafetyNet, not this page.
-
-## Working with live vertebrate animals
-
-| Requirement | Frequency | Where |
-|---|---|---|
-| Medical History Questionnaire (MHQ) | Annual | [mhq.healthsciences.ucla.edu](https://mhq.healthsciences.ucla.edu) |
-| Whatever the PI's ARC protocol requires | Varies | RATS; DLAM |
-
-## Using anesthetic gases
-
-| Course | Frequency | Course ID |
-|---|---|---|
-| Waste Anesthetic Gas | Annual | `ENV-WAG-OL` |
-
-## Other things that trigger training
-
-Controlled substances (`RAD-CTRLS`, once) · respirator use (Hazard Evaluation Form, then `ENV-RESP-OL` annually) · lasers · radioactive materials · radiation-producing machines · shop machinery · lockout-tagout · hot work · field work outside a campus lab.
-
-None of these applies to routine work here, but any of them can start applying the moment a new technique or instrument arrives. That is when to reopen the [matrix](https://ucla.app.box.com/v/EHS-trainingmatrix).
+Courses are on [Worksafe](https://worksafe.ucla.edu/) unless it says CITI. Search the **course ID** exactly as written.
 
 ---
 
-## Beyond EH&S
+## Part 1 — Everyone
 
-Safety training is only part of what has to be complete before someone starts. Animal work carries its own sequence — CITI modules, a DLAM wet lab, and a vivarium walk-through, in that order, and only once you are listed on the ARC protocol. There is also lab-specific training that no online module can cover.
+This lab works with human cell lines and specimens, so the biohazard courses apply to everyone, not just to people at the bench.
 
-Lab members: the full onboarding checklist — safety, animal, and lab-specific in one list — is in the lab's Slack. It exists as one list on purpose. "What do I need before I start?" is one question, and splitting the answer across several places is how half of it gets missed.
+### Safety
+
+| Course | Course ID | How often |
+|---|---|---|
+| Injury & Illness Prevention Program | UC Learning | Annual |
+| Laboratory Safety Fundamentals | `LAB-LSFC-OL` | Once |
+| LSF Online Refresher | `LAB-LABOR` | Annual |
+| Chemical Hygiene Plan | `LAB-CHP-OL` | Annual |
+
+### Biohazard
+
+| Course | Course ID | How often |
+|---|---|---|
+| NIH Guidelines / IBC Compliance — **do this first** | `BIO-IBC-OL` | Once |
+| Bloodborne Pathogens | `BIO-BBP` | Once |
+| Bloodborne Pathogens Refresher | `BIO-BBPOR-OL` | Annual |
+| Biosafety Level 2 | — | Every 3 years |
+| Biological Safety Cabinet | — | Every 3 years |
+| Medical Waste Management | — | Every 3 years |
+
+### Paperwork
+
+- **Site Safety Orientation Checklist** — a form, not a course · once
+- **Added to the BUA** in SafetyNet — the PI does this
+- **Hepatitis B vaccination** — accept it or sign the declination
 
 ---
 
-*Course IDs and frequencies from the UCLA EH&S Research Safety Training Guide, rev. 05/11/22, read 23 August 2026.*
+## Part 2 — Animal work only
 
-[← All safety pages](/safety/) · [Procedures](/safety/sops/) · [Research Safety Training Guide](https://ucla.app.box.com/v/EHS-trainingmatrix)
+Skip this part if you will not handle animals or animal tissue.
+
+**Do these in order.** Each one unlocks the next, and booking out of order wastes weeks.
+
+1. **Medical History Questionnaire** — [mhq.healthsciences.ucla.edu](https://mhq.healthsciences.ucla.edu) · annual
+2. **CITI — Animal Research** (ARC General Certification Test) · every 3 years
+3. **Listed on the ARC protocol** in RATS
+4. **CITI — Working with Mice in Research Settings**
+5. **DLAM wet lab** — book on Worksafe. In person, with a live mouse. Bring your CITI certificate.
+6. **DLAM vivarium walk-through** — last, after 4 and 5
+
+Also: **Waste Anesthetic Gas**, `ENV-WAG-OL`, annual — only if you use isoflurane.
+
+**Survival surgery only** — intestinal injections, stereotaxic, anything the animal recovers from — adds aseptic technique / rodent survival surgery training. Most people never need it; dosing, behavioural testing, tissue collection and euthanasia do not count.
+
+Questions: DLAMTraining@mednet.ucla.edu
+
+---
+
+## How to use CITI
+
+CITI is a separate website from Worksafe. Getting the login wrong is the most common mistake — certificates end up on an account nobody can see, and the courses have to be redone.
+
+**Logging in**
+
+1. Go to [citiprogram.org](https://www.citiprogram.org/)
+2. Click **"LOG IN THROUGH MY ORGANIZATION"** — do **not** register a new account with a personal email
+3. Choose **University of California, Los Angeles (UCLA)**
+4. Sign in with your UCLA Logon ID
+
+This links your certificates to your ARC personnel record automatically. Registering any other way means they will not count.
+
+**Choosing your courses**
+
+The first time in, CITI shows a page called **Select Curriculum**. Section One asks which categories apply to you — check the ones that describe your work:
+
+| Box | |
+|---|---|
+| I conduct human subjects research (OHRPP) | Only if you are on an IRB protocol — ask the PI |
+| I conduct animal research | Yes, if Part 2 applies to you |
+| Hazardous biological material or recombinant / synthetic nucleic acids (IBC) | Yes — everyone in this lab |
+
+Then answer the follow-up questions for each box you ticked. Under animal research, choose **Animal Research (ARC General Certification Test)** and **Working with Mice in Research Settings**.
+
+Download your completion certificates when you finish. The mouse one is needed at the DLAM wet lab.
+
+If the curriculum page looks wrong, ask before guessing — it is easier to fix before starting than after.
+
+---
+
+## With the PI
+
+Before any bench work, and once a year after: read the safety manual, read the SOPs for your work and sign each one, walk the lab, and sign the training record. No online module covers this part.
+
+---
+
+*Course IDs from the [UCLA EH&S Research Safety Training Guide](https://ucla.app.box.com/v/EHS-trainingmatrix), rev. 05/11/22. The matrix is the authority — check it when a role or a hazard changes. Reviewed 23 August 2026.*
+
+[← All safety pages](/safety/) · [Procedures](/safety/sops/)
