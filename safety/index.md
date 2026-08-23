@@ -7,7 +7,9 @@ permalink: /safety/
 
 # Lab Safety
 
-Videlock Lab · MacDonald Medical Research Laboratory, Room 1526
+Videlock Lab · UCLA Department of Medicine, Vatche and Tamar Manoukian Division of Digestive Diseases
+
+**This is the page the QR codes in the lab point to.**
 
 ---
 
@@ -15,79 +17,55 @@ Videlock Lab · MacDonald Medical Research Laboratory, Room 1526
 
 | Situation | Call |
 |---|---|
-| Fire, injury, or immediate danger | **9-1-1** (UCPD & UCLA Fire) |
-| Chemical, biological, gas, or radioactive incident | **(310) 825-9797** — EH&S hotline, 24 hr |
-| Facilities problem (fume hood, water, power) | **(310) 825-9236** |
-| DGSOM Security | **(310) 267-7100** |
+| Fire, or anyone seriously hurt | **9-1-1** |
+| Chemical, biological, gas, or radioactive incident | **(310) 825-9797** — EH&S hotline, 24 hr, option 3 for biosafety |
+| Fume hood, eyewash, shower, water, or power problem | **(310) 825-9236** — Facilities Trouble Call |
 
-Report every incident, injury, and potential exposure to **both** the PI and
-the EH&S hotline. Reporting to EH&S is a compliance requirement, not a
-judgment call.
+**Flush first.** For a splash or a needlestick, get to the eyewash or sink and stay there for 15 minutes while someone else makes the calls.
 
-**PI:** <!-- TODO: name and cell -->
-**Safety contact:** <!-- TODO: name and cell -->
+Every exposure must be reported to the EH&S hotline **within 8 hours**. Reporting is a compliance requirement, not a judgement call, and investigations are non-punitive.
 
-<!-- VERIFY THESE NUMBERS against ehs.ucla.edu before printing any QR codes.
-     They were correct as of August 2026 but a wrong number on a wall is
-     worse than no number. -->
+Lab members: the people to call, and where everything is in each room, are in the lab's Slack canvas and safety manual — not on this page.
 
 ---
 
-## Where things are in the lab
+## What do you need?
 
-<!-- TODO: fill in. This is the single most useful thing on this page for a
-     new person or a visitor, and it is not in any SOP.
-       - Eyewash / safety shower:
-       - Fire extinguisher:
-       - Spill kit:
-       - First aid kit:
-       - Chemical waste accumulation area:
-       - Sharps disposal:
-       - SDS access: -->
+| | |
+|---|---|
+| [**Exposure** →](/safety/exposure/) | Splash, needlestick, cut, or anything on skin or in eyes |
+| [**Spill** →](/safety/spill/) | Biological or chemical spill, inside or outside a cabinet |
+| [**Waste** →](/safety/waste/) | What goes in which container, and the rules that get missed |
+| [**Procedures** →](/safety/sops/) | Every SOP that applies here, with links to the official UCLA copies |
+| [**Training** →](/safety/training/) | What to complete before starting bench work |
 
 ---
 
-## Lab-written SOPs
-{: #custom-sops }
+## Where to go for medical care
 
-Procedures specific to this lab, for hazards not covered by a UCLA standard
-band.
+| You are | When | Go to |
+|---|---|---|
+| Staff or faculty | Mon–Fri 7 a.m.–4 p.m. | Occupational Health Facility, CHS 17-240, 10833 Le Conte Ave — (310) 825-6771 |
+| Staff or faculty | Nights, weekends, holidays | Ronald Reagan UCLA Medical Center Emergency Room, 757 Westwood Plaza — (310) 825-2111 |
+| Student employed by UCLA | Any time | As above, bringing the Workers' Compensation form signed by the supervisor |
+| Student not employed by UCLA | Weekday clinic hours | Arthur Ashe Student Health & Wellness Center, 221 Westwood Plaza |
+| Student not employed by UCLA | Nights, weekends, holidays | Ronald Reagan Emergency Room |
 
-<!-- TODO: one link per SOP. Each becomes safety/sops/<slug>.md
-     - Chemical Sensitizers
-     - Sodium Azide
-     - Glutaraldehyde
-     - Guanidinium Salt Lysis Reagents
-     - Potent Bioactive Research Compounds -->
-
-## Biosafety SOPs
-
-<!-- TODO: 4 documents from the Biosafety SOPs folder -->
-
-## Hazard factsheets
-
-<!-- TODO: 2 documents from the Factsheets folder -->
+Say that this is an occupational laboratory exposure and needs immediate attention. Take the relevant Post-Exposure Plan with you.
 
 ---
 
-## UCLA standard SOPs
+## UCLA resources
 
-The lab's inventory requires 19 of UCLA's banded standard SOPs. These are
-**linked, not copied** — EH&S revises them, and a stale copy hosted here
-would be worse than no copy at all.
-
-→ [UCLA EH&S laboratory documents](https://ehs.ucla.edu/documents/Laboratory)
-
-<!-- TODO: list the 19 that apply, each linking to the official EH&S copy.
-     The mapping is in "Videlock Lab - SOP Coverage 2026-08-19.xlsx". -->
-
----
-
-## Training
-
-<!-- TODO: what everyone in the lab must complete before bench work, and
-     where to do it (UC Learning Center). -->
+- [EH&S laboratory documents](https://ehs.ucla.edu/documents/Laboratory) — the standard SOPs and factsheets, always current
+- [EH&S biosafety documents](https://ehs.ucla.edu/documents/biosafety) — biosafety SOPs and Post-Exposure Plan templates
+- [Report an incident](https://ehs.ucla.edu/report)
+- [Safety Data Sheets](https://ehs.ucop.edu/sds) — UC Risk & Safety Solutions
+- [Laboratory safety training](https://ehs.ucla.edu/training-support/courses/labsafety)
+- [Occupational Health](https://www.uclahealth.org/programs/occupational-health)
+- [DLAM animal health and after-hours reporting](https://dlam.dgsom.ucla.edu/veterinary-services/animal-health)
+- [Laboratory inspections](https://ehs.ucla.edu/inspections)
 
 ---
 
-*Last reviewed: <!-- TODO: date -->*
+*Reviewed 23 August 2026. Phone numbers verified against UCLA EH&S and UCLA Health on that date.*
