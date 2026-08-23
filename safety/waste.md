@@ -21,9 +21,19 @@ The rules below are the ones that get missed, taken from the [UCLA Chemical Hygi
 | Needles, blades, pins — **biohazardous** | **Red** biohazard sharps container |
 | Needles, blades, pins — **not** biohazardous | A sharps container that is **NOT red**, with a hazardous waste tag |
 | Intact tissue | Pathology waste, biohazard container |
-| Carcasses | Double biohazard bags, medical waste ID attached, leak-proof container, DLAM biohazard freezer |
+| Carcasses — **biohazardous animals only** | Double biohazard bags, medical waste ID attached, leak-proof container, the biohazard freezer DLAM designates for that facility. See the note below. |
 | Formalin, xylene, solvents | Hazardous chemical waste with a WASTe tag. **Never** down the drain, never mixed with biohazard waste |
 | Broken glass, clean | Glass box — never by hand, always tongs or a dustpan |
+
+---
+
+## Carcasses — which animals this applies to
+
+The double-bagging and medical-waste-ID route is for **biohazardous animals only** — animals within the containment period after viral vector administration, or otherwise designated biohazardous by the protocol.
+
+Animals that never received a vector, and animals past their containment period, go through **routine DLAM carcass disposal**. Treating every carcass as medical waste is not required, costs money, and fills the biohazard freezer with things that do not belong in it.
+
+Which biohazard freezer serves a given vivarium is a DLAM question, and the answer differs by facility. Ask DLAM rather than assuming the freezer another lab uses is yours.
 
 ---
 

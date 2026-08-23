@@ -9,7 +9,9 @@ permalink: /safety/training/
 
 What has to be complete **before** bench work starts, and what renews.
 
-Enrolment is through the UC Learning Center. Course names and intervals below were checked against the UCLA EH&S training guide in August 2026 — confirm current requirements at [ehs.ucla.edu/training-support/courses/labsafety](https://ehs.ucla.edu/training-support/courses/labsafety).
+Enrolment is through the UC Learning Center.
+
+**Start here: the [UCLA EH&S Research Safety Training Guide](https://ucla.app.box.com/v/EHS-trainingmatrix)** — the full matrix of who needs which course. The list below is the subset that applies to this lab; the matrix is the authority, and it is where to check when a role or a hazard changes.
 
 ---
 
@@ -18,7 +20,7 @@ Enrolment is through the UC Learning Center. Course names and intervals below we
 | Requirement | Code | Interval |
 |---|---|---|
 | NIH Guidelines for UCLA Researchers: IBC Compliance Training | — | Once — prerequisite for every biosafety course below |
-| Laboratory Safety Fundamental Concepts (in class) | LAB-LSFC | Initial |
+| Laboratory Safety Fundamental Concepts — **in class or online** | LAB-LSFC | Initial |
 | Lab Safety Fundamental Concepts Online Refresher | LAB-LABOR | Annual |
 | Bloodborne Pathogens Training | BIO-BBP | Initial |
 | Bloodborne Pathogens Online Refresher | BIO-BBPOR-OL | Annual |
@@ -36,6 +38,14 @@ Enrolment is through the UC Learning Center. Course names and intervals below we
 | Occupational Health Medical History Questionnaire | Occupational Health | Per Occupational Health |
 | Listed on the ARC protocol | RATS | Before starting |
 
+## Beyond safety
+
+Safety training is only part of what has to be complete before someone starts. Depending on the work, there is also human subjects and privacy training, animal handling and protocol-specific training, and research conduct training — none of which appears in the EH&S matrix.
+
+Lab members: the full onboarding checklist, safety and non-safety together, is in the lab's Slack. It exists as one list on purpose — "what do I need before I start?" is one question, and splitting the answer across two places is how half of it gets missed.
+
+---
+
 ## Also required
 
 - Added as a Team Member on the Biological Use Authorization in SafetyNet
@@ -51,4 +61,4 @@ UCLA's courses teach the general rules. The lab-specific training is where you l
 
 ---
 
-[← All safety pages](/safety/) · [Procedures](/safety/sops/) · [UCLA laboratory safety training](https://ehs.ucla.edu/training-support/courses/labsafety)
+[← All safety pages](/safety/) · [Procedures](/safety/sops/) · [UCLA EH&S Research Safety Training Guide](https://ucla.app.box.com/v/EHS-trainingmatrix)
