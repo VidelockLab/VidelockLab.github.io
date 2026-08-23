@@ -51,18 +51,18 @@ This lab works with human cell lines and specimens, so the biohazard courses app
 
 Skip this part if you will not handle animals or animal tissue.
 
-**Do these in order.** Each one unlocks the next, and booking out of order wastes weeks.
+**Do these in order.**
 
 1. **Medical History Questionnaire** — [mhq.healthsciences.ucla.edu](https://mhq.healthsciences.ucla.edu) · annual
-2. **CITI — Animal Research** (ARC General Certification Test) · every 3 years
-3. **Listed on the ARC protocol** in RATS
-4. **CITI — Working with Mice in Research Settings**
-5. **DLAM wet lab** — book on Worksafe. In person, with a live mouse. Bring your CITI certificate.
-6. **DLAM vivarium walk-through** — last, after 4 and 5
+2. **CITI — Animal Research** (General Certification Test) · every 3 years
+3. **CITI — Working with Mice in a Research Setting**
+4. **Species-Specific Training – Mouse** — the DLAM wet lab. [How to sign up](https://dlam.dgsom.ucla.edu/education-and-training/training-requirements-for-arc-protocol). Bring your CITI certificate; the trainer has to see it before class starts. Printout or phone is fine.
+5. **DLAM vivarium walk-through**
+6. **Waste Anesthetic Gas** — `ENV-WAG-OL` · annual
 
-Also: **Waste Anesthetic Gas**, `ENV-WAG-OL`, annual — only if you use isoflurane.
+**If the mouse class is full**, sign up for the DLAM Mouse Class Queue/Waitlist on Worksafe — it is a placeholder rather than a real class, and DLAM will email priority enrollment when a place opens. New classes are listed on the last day of each month.
 
-**Survival surgery only** — intestinal injections, stereotaxic, anything the animal recovers from — adds aseptic technique / rodent survival surgery training. Most people never need it; dosing, behavioural testing, tissue collection and euthanasia do not count.
+Still can't get in? Tell the PI, who can arrange training in the lab rather than leaving you waiting.
 
 Questions: DLAMTraining@mednet.ucla.edu
 
