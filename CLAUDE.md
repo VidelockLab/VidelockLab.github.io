@@ -13,6 +13,8 @@ safety information that people reach by scanning QR codes posted in the lab.
   unless the theme genuinely requires it.
 - **Theme:** `jekyll-theme-cayman`, set in `_config.yml`. The upgrade path
   to `just-the-docs` (sidebar + search) is documented in the comments there.
+- The CDN serves stale for a minute or two after a push. A page that looks
+  unchanged is usually cache, not a failed deploy.
 
 ## Adding a page
 
@@ -23,14 +25,12 @@ Create `<folder>/index.md` or `<folder>/<slug>.md` with front matter:
 layout: default
 title: Human-readable title
 nav_order: 3
+permalink: /safety/<slug>/
 ---
 ```
 
 `nav_order` does nothing under the current theme. Include it anyway — it is
 what makes the just-the-docs switch a config change instead of a rewrite.
-
-Folder-with-`index.md` gives clean URLs (`/safety/`). Prefer it over
-`safety.md` for anything that might grow subpages.
 
 ## Content rules
 
@@ -38,33 +38,47 @@ These are deliberate. Do not "helpfully" reverse them.
 
 1. **Never re-host UCLA EH&S standard SOP PDFs.** EH&S revises them. Link to
    the official copies at https://ehs.ucla.edu/documents/Laboratory instead.
-   Lab-authored SOPs (Custom, Biosafety) and factsheets DO belong here, as
-   real HTML pages rather than PDF attachments.
 2. **Never publish container-level chemical inventory.** Hazard summaries,
-   handling procedures, and PPE requirements are fine. A public list of what
+   handling procedures and PPE requirements are fine. A public list of what
    is in Rm 1526 and in what quantity is not.
-3. **Never invent a phone number, a dose, an exposure limit, or a first-aid
-   step.** If a fact isn't in the source documents, leave a `TODO` marked in
-   an HTML comment. On a safety page a plausible-looking wrong answer is the
-   worst possible failure.
-4. **`/safety/` is a permanent URL.** It is printed on QR codes on lab
-   walls. Never rename, move, or restructure it away. Same for any deep link
-   that ends up on printed material.
-5. Keep the site root for general lab content. Safety lives under `/safety/`.
+3. **No personal phone numbers, no personnel names, no equipment map.** The
+   site carries only numbers UCLA already publishes: 9-1-1, EH&S
+   (310) 825-9797, Facilities (310) 825-9236, Occupational Health, the ER.
+   Everything else lives in the lab's Slack canvas and the safety manual.
+4. **Never invent a phone number, a dose, an exposure limit, or a first-aid
+   step.** On a safety page a plausible-looking wrong answer is the worst
+   possible failure. Record it as an open issue instead.
+5. **These paths are permanent.** They are printed on laminated QR labels on
+   lab walls. Rewrite the content freely; never rename or move the path.
+
+   `/safety/` · `/safety/exposure/` · `/safety/spill/` · `/safety/waste/` ·
+   `/safety/sops/` · `/safety/training/`
+
+6. Keep the site root for general lab content. Safety lives under `/safety/`.
+
+## The safety pages
+
+`/safety/` is a router: emergency numbers, then five links. Each of the
+others is one job, sized to be read on a phone by someone who is standing up.
+
+- `exposure` — flush first, 15 minutes; where to go; the 2-hour lentivirus
+  prophylaxis window
+- `spill` — inside a cabinet / outside / shared space / dropped in transit
+- `waste` — which container, plus the rules people forget
+- `sops` — links out to the official UCLA copies, never local files
+- `training` — two parts (everyone, animal work) with Worksafe course IDs,
+  plus how to log into CITI
 
 ## Source material
 
-Lives outside this repo, at `~/Desktop/labstuff/LabSafety`:
-
-- `Custom SOPs/` — 5 lab-written SOPs → become pages here
-- `Biosafety SOPs/` — 4 documents → become pages here
-- `Factsheets/` — 2 documents → become pages here
-- `UCLA Standard SOPs/` — 19 EH&S PDFs → **link out, do not copy**
-- `Videlock Lab - SOP Coverage 2026-08-19.xlsx` — the chemical→SOP mapping,
-  and the source of truth for which standard SOPs apply
+Lives outside this repo, at `~/Desktop/labstuff/LabSafety`, which has its
+own CLAUDE.md covering the manual, the SOPs and the settled facts. Read that
+before making substantive changes to a safety page — the room numbers,
+containment levels and containment periods on this site all come from there.
 
 ## Style
 
 Plain language, short sentences, scannable headings. The reader is often
-standing at a bench with gloves on, or is a rotation student on day one.
-Put the actionable thing first and the background second.
+standing at a bench with gloves on, or is a rotation student on day one, or
+is a visitor who scanned a code in a corridor. Put the actionable thing
+first and the background second. Assume no prior knowledge and no patience.
