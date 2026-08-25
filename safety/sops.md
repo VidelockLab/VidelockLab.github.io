@@ -49,7 +49,7 @@ Assigned from this lab's chemical inventory. **Sixteen are required by chemicals
 | [Novel Chemicals with Unknown Hazards](https://ucla.box.com/s/g4slz31sj0d2m4xdl0yv1ejzlw3559k6) | 2 chemicals |
 | [Oxidizers](https://ucla.box.com/s/uxegmeszl7fo49jo8qc04lf9p7o2n6ly) | 1 chemical |
 | [Phenol](https://ucla.box.com/s/5fyhbjv5v9deli8fvqf9i8555nmt3sue) | QIAzol |
-| [Dichloromethane](https://ucla.box.com/s/h6lph6eulsj6yma76e4hq2fh85brck98) | 1 chemical |
+| [Dichloromethane](https://ehs.ucla.edu/documents/Laboratory) | 1 chemical. *Its direct Box link requires a login — this goes to the EH&S index instead* |
 | [Halogenated Solvents](https://ucla.box.com/s/t5juj4q0je5g9fyaggtbqr9f5u1yqiyp) | 1 chemical |
 | [Acutely Toxic Chlorinated Solvents](https://ucla.box.com/s/kolka28p9mwzegnevq8ldptu97z0wj9f) | Chloroform |
 | [Acutely Toxic Carcinogens and Reproductive Toxicants](https://ucla.box.com/s/t2ta3xg99lp2xehuu0cpus0csms90r87) | Azoxymethane |

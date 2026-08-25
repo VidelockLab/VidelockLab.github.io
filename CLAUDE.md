@@ -15,6 +15,12 @@ safety information that people reach by scanning QR codes posted in the lab.
   to `just-the-docs` (sidebar + search) is documented in the comments there.
 - The CDN serves stale for a minute or two after a push. A page that looks
   unchanged is usually cache, not a failed deploy.
+- **The Chemical Hygiene Plan's own Box link is login-walled.**
+  `ucla.app.box.com/v/UCLA-Chemical-Hygiene-Plan` 302s to a Box login for an
+  anonymous request, so it must never go on a QR code or a page a visitor
+  reads. Link `ehs.ucla.edu/documents/Laboratory` instead, which lists it.
+  Checked 25 Aug 2026; `/v/UCLA-Biosafety-Plan` and `/v/EHS-trainingmatrix`
+  are both fine, so this is the CHP specifically, not a `/v/` problem.
 
 ## Adding a page
 
@@ -38,6 +44,10 @@ These are deliberate. Do not "helpfully" reverse them.
 
 1. **Never re-host UCLA EH&S standard SOP PDFs.** EH&S revises them. Link to
    the official copies at https://ehs.ucla.edu/documents/Laboratory instead.
+   This rule is about *EH&S's* documents. **The lab's own SOPs are a different
+   case** — the five lab-written chemical SOPs are published here, because no
+   EH&S copy exists to link to and they carry no personnel names or personal
+   numbers. The lab-written *biosafety* SOPs do carry both, and stay off.
 2. **Never publish container-level chemical inventory.** Hazard summaries,
    handling procedures and PPE requirements are fine. A public list of what
    is in Rm 1526 and in what quantity is not.
@@ -54,6 +64,13 @@ These are deliberate. Do not "helpfully" reverse them.
    `/safety/` · `/safety/exposure/` · `/safety/spill/` · `/safety/waste/` ·
    `/safety/sops/` · `/safety/training/`
 
+   The five SOP pages added 25 Aug 2026 are permanent too, though not yet on
+   a printed label: `/safety/sops/sensitizers/` · `/safety/sops/sodium-azide/` ·
+   `/safety/sops/glutaraldehyde/` · `/safety/sops/guanidinium/` ·
+   `/safety/sops/potent-compounds/`. They live in flat files named
+   `safety/sop-<slug>.md` — a real `safety/sops/` directory would collide with
+   `safety/sops.md`, which owns the `/safety/sops/` permalink.
+
 6. Keep the site root for general lab content. Safety lives under `/safety/`.
 
 ## The safety pages
@@ -65,7 +82,11 @@ others is one job, sized to be read on a phone by someone who is standing up.
   prophylaxis window
 - `spill` — inside a cabinet / outside / shared space / dropped in transit
 - `waste` — which container, plus the rules people forget
-- `sops` — links out to the official UCLA copies, never local files
+- `sops` — the router for procedures. Each of the 19 UCLA banded chemical
+  SOPs is linked individually (URLs came from the lab's SOP coverage
+  workbook, not from re-deriving them), plus the five lab-written chemical
+  SOP pages, plus a reference block for the CHP and Institutional Biosafety
+  Plan
 - `training` — two parts (everyone, animal work) with Worksafe course IDs,
   plus how to log into CITI
 
