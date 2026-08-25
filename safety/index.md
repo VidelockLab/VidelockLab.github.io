@@ -59,6 +59,8 @@ Say that this is an occupational laboratory exposure and needs immediate attenti
 
 - [EH&S laboratory documents](https://ehs.ucla.edu/documents/Laboratory) — the standard SOPs and factsheets, always current
 - [EH&S biosafety documents](https://ehs.ucla.edu/documents/biosafety) — biosafety SOPs and Post-Exposure Plan templates
+- [UCLA Chemical Hygiene Plan](https://ehs.ucla.edu/documents/Laboratory) — listed on the laboratory documents page above. Cal/OSHA requires it be readily available wherever hazardous chemicals are used, handled or stored
+- [UCLA Institutional Biosafety Plan](https://ucla.app.box.com/v/UCLA-Biosafety-Plan) — the institutional plan this lab's biosafety manual sits under
 - [Report an incident](https://ehs.ucla.edu/report)
 - [Safety Data Sheets](https://ehs.ucop.edu/sds) — UC Risk & Safety Solutions
 - [Laboratory safety training](https://ehs.ucla.edu/training-support/courses/labsafety)
