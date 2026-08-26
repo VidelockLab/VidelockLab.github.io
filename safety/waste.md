@@ -21,7 +21,7 @@ The rules below are the ones that get missed, taken from the [UCLA Chemical Hygi
 | Needles, blades, pins — **biohazardous** | **Red** biohazard sharps container |
 | Needles, blades, pins — **not** biohazardous | A sharps container that is **NOT red**, with a hazardous waste tag |
 | Intact tissue | Pathology waste, biohazard container |
-| Carcasses — **biohazardous animals only** | Double biohazard bags, medical waste ID attached, leak-proof container, the biohazard freezer DLAM designates for that facility. See the note below. |
+| Carcasses — **biohazardous animals only** | Double biohazard bags, medical waste ID attached, leak-proof container, then the **DLAM biohazard freezer in the MRL vivarium, ground floor**. See the note below. |
 | Formalin, xylene, solvents | Hazardous chemical waste with a WASTe tag. **Never** down the drain, never mixed with biohazard waste |
 | Broken glass, clean | Glass box — never by hand, always tongs or a dustpan |
 
@@ -29,11 +29,13 @@ The rules below are the ones that get missed, taken from the [UCLA Chemical Hygi
 
 ## Carcasses — which animals this applies to
 
-The double-bagging and medical-waste-ID route is for **biohazardous animals only** — animals within the containment period after viral vector administration, or otherwise designated biohazardous by the protocol.
+The double-bagging and medical-waste-ID route is for **biohazardous animals only** — animals still inside the containment period after viral vector administration, or otherwise designated biohazardous by the protocol.
 
-Animals that never received a vector, and animals past their containment period, go through **routine DLAM carcass disposal**. Treating every carcass as medical waste is not required, costs money, and fills the biohazard freezer with things that do not belong in it.
+The containment period is **72 hours after AAV** and **96 hours after lentivirus**.
 
-Which biohazard freezer serves a given vivarium is a DLAM question, and the answer differs by facility. Ask DLAM rather than assuming the freezer another lab uses is yours.
+Once an animal is past its containment period it is no longer infectious, and it goes through **routine DLAM carcass disposal** — as does any animal that never received a vector. Treating every carcass as medical waste is not required, costs money, and fills the biohazard freezer with things that do not belong in it.
+
+Biohazardous carcasses go to the **DLAM biohazard freezer in the MRL vivarium, on the ground floor**. Do not use the freezer another lab uses — the one serving the CHS vivarium is not ours.
 
 ---
 
