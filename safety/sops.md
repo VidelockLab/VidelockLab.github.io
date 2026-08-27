@@ -103,6 +103,6 @@ They cover lentiviral vectors, AAV in rodents, human tissue and blood-derived sa
 
 ---
 
-*Chemical SOP assignments from the lab's inventory review, 19 August 2026. Re-run when the inventory changes materially. Biosafety section reviewed 27 August 2026 against the lab's filed Biosafety Use Authorization.*
+*Chemical SOP assignments from the lab's inventory review, 19 August 2026. Re-run when the inventory changes materially. Biosafety section reviewed 27 August 2026 against the lab's Biosafety Use Authorization.*
 
 [← All safety pages](/safety/) · [Training](/safety/training/)

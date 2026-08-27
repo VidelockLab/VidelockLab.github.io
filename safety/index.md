@@ -70,4 +70,4 @@ Say that this is an occupational laboratory exposure and needs immediate attenti
 
 ---
 
-*Reviewed 27 August 2026 against the lab's filed Biosafety Use Authorization. Phone numbers verified against UCLA EH&S and UCLA Health on 23 August 2026.*
+*Reviewed 27 August 2026 against the lab's Biosafety Use Authorization. Phone numbers verified against UCLA EH&S and UCLA Health on 23 August 2026.*

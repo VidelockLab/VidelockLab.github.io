@@ -68,6 +68,6 @@ Say it is an occupational laboratory exposure and needs immediate attention.
 
 ---
 
-*Reviewed 27 August 2026 against the lab's filed Biosafety Use Authorization.*
+*Reviewed 27 August 2026 against the lab's Biosafety Use Authorization.*
 
 [← All safety pages](/safety/) · [Spill response](/safety/spill/) · [Report an incident to EH&S](https://ehs.ucla.edu/report)

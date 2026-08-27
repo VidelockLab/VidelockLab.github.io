@@ -73,6 +73,6 @@ Mixing incompatible waste streams is a common cause of laboratory accidents. Rea
 
 ---
 
-*Reviewed 27 August 2026 against the lab's filed Biosafety Use Authorization.*
+*Reviewed 27 August 2026 against the lab's Biosafety Use Authorization.*
 
 [← All safety pages](/safety/) · [Spill response](/safety/spill/) · [UCLA hazardous waste and WASTe](https://ehs.ucla.edu/documents/Laboratory)
