@@ -51,7 +51,7 @@ Lab members: the people to call, and where everything is in each room, are in th
 | Student not employed by UCLA | Weekday clinic hours | Arthur Ashe Student Health & Wellness Center, 221 Westwood Plaza |
 | Student not employed by UCLA | Nights, weekends, holidays | Ronald Reagan Emergency Room |
 
-Say that this is an occupational laboratory exposure and needs immediate attention. Take the relevant Post-Exposure Plan with you.
+Say that this is an occupational laboratory exposure and needs immediate attention. If lentiviral vector was involved, take the lentivirus Post-Exposure Plan with you — it is the only Post-Exposure Plan this lab holds. For anything else, tell the clinician exactly what you were working with.
 
 ---
 
@@ -70,4 +70,4 @@ Say that this is an occupational laboratory exposure and needs immediate attenti
 
 ---
 
-*Reviewed 23 August 2026. Phone numbers verified against UCLA EH&S and UCLA Health on that date.*
+*Reviewed 27 August 2026 against the lab's filed Biosafety Use Authorization. Phone numbers verified against UCLA EH&S and UCLA Health on 23 August 2026.*

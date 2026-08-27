@@ -70,15 +70,15 @@ Hazards present in the lab that the chemical inventory does not track.
 
 ## Biosafety — what applies here
 
-The lab works with adeno-associated viral vectors, third-generation HIV-based lentiviral vectors, unfixed human intestinal and blood-derived specimens, and transgenic mice.
+The lab works with adeno-associated viral vectors, third-generation HIV-based lentiviral vectors, unfixed human intestinal, brain and blood-derived specimens, human and mouse cell lines and organoid cultures, and transgenic mice.
 
 **General practice** — incident response · biohazardous spill response · decontamination · donning and doffing PPE · hand sanitation · transport of biohazardous materials
 
-**Equipment and technique** — biosafety cabinet use · sharps use · centrifugation · aerosol-generating equipment · aspiration flask · handling human materials outside a biosafety cabinet
+**Equipment and technique** — biosafety cabinet use · sharps use · centrifugation · aerosol-generating equipment · aspiration flask · ELISA · imaging live cells · handling human materials outside a biosafety cabinet
 
-**Animal work** — AAV in rodents · biohazardous animal injections · handling and restraint · necropsy · transport · ABSL-2 containment · laboratory animal allergies
+**Animal work** — AAV in rodents · biohazardous animal injections · handling and restraint · necropsy · cage changing and washing · transport · ABSL-2 containment · laboratory animal allergies
 
-**Waste** — solid medical waste · liquid medical waste · sharps medical waste · recombinant nucleic acid waste
+**Waste** — solid medical waste · liquid medical waste · sharps medical waste · recombinant nucleic acid waste · pathology waste · biohazardous animal disposal
 
 All of these are at [ehs.ucla.edu/documents/biosafety](https://ehs.ucla.edu/documents/biosafety).
 
@@ -88,7 +88,7 @@ All of these are at [ehs.ucla.edu/documents/biosafety](https://ehs.ucla.edu/docu
 
 The lab's own vector, human-specimen, incident-response and transport SOPs carry room-level detail and personal contact numbers, so they are **not published here**. Lab members: they are linked from the Slack canvas in `#lab-safety`, and the signed copies are in the safety manual.
 
-They cover lentiviral vectors, AAV in rodents, unfixed human colon biopsies and blood-derived samples, biohazardous incident response, and transport of biohazardous materials — plus the completed Bloodborne Pathogen Exposure Control Plan and the lentivirus Post-Exposure Plan.
+They cover lentiviral vectors, AAV in rodents, human tissue and blood-derived samples, biohazardous incident response, and transport of biohazardous materials — plus the completed Bloodborne Pathogen Exposure Control Plan and the lentivirus Post-Exposure Plan, which is the only Post-Exposure Plan this lab holds. Lab members: the current versions are the ones in the lab's Google Drive SOP folder.
 
 ---
 
@@ -103,6 +103,6 @@ They cover lentiviral vectors, AAV in rodents, unfixed human colon biopsies and 
 
 ---
 
-*Chemical SOP assignments from the lab's inventory review, 19 August 2026. Re-run when the inventory changes materially.*
+*Chemical SOP assignments from the lab's inventory review, 19 August 2026. Re-run when the inventory changes materially. Biosafety section reviewed 27 August 2026 against the lab's filed Biosafety Use Authorization.*
 
 [← All safety pages](/safety/) · [Training](/safety/training/)

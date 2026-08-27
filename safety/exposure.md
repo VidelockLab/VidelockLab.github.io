@@ -24,7 +24,7 @@ Someone else makes the calls while you are at the eyewash. Do not stop flushing 
 
 **3. Remove contaminated PPE**, turning exposed surfaces inward, into a leak-proof bag.
 
-**4. Go for medical care.** Take the Post-Exposure Plan for whatever you were working with.
+**4. Go for medical care.** If lentiviral vector was involved, take the lentivirus Post-Exposure Plan with you. It is the only Post-Exposure Plan this lab has — there is none for AAV and none for human material, so for those, tell the clinician what you were working with rather than looking for a document.
 
 | | |
 |---|---|
@@ -67,5 +67,7 @@ Say it is an occupational laboratory exposure and needs immediate attention.
 **Call 9-1-1 first.** Give first aid. Warn responders if there is a risk of exposure to infectious agents so they can protect themselves. Then report to EH&S at (310) 825-9797.
 
 ---
+
+*Reviewed 27 August 2026 against the lab's filed Biosafety Use Authorization.*
 
 [← All safety pages](/safety/) · [Spill response](/safety/spill/) · [Report an incident to EH&S](https://ehs.ucla.edu/report)

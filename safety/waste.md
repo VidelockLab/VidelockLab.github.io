@@ -21,6 +21,7 @@ The rules below are the ones that get missed, taken from the [UCLA Chemical Hygi
 | Needles, blades, pins — **biohazardous** | **Red** biohazard sharps container |
 | Needles, blades, pins — **not** biohazardous | A sharps container that is **NOT red**, with a hazardous waste tag |
 | Intact tissue | Pathology waste, biohazard container |
+| Plasmid, transfection and other non-viable recombinant DNA waste | Medical waste — the same red-bagged biohazard bin. It is not chemical waste and it does not go in the regular bin |
 | Carcasses — **biohazardous animals only** | Double biohazard bags, medical waste ID attached, leak-proof container, then the **DLAM biohazard freezer in the MRL vivarium, ground floor**. See the note below. |
 | Formalin, xylene, solvents | Hazardous chemical waste with a WASTe tag. **Never** down the drain, never mixed with biohazard waste |
 | Broken glass, clean | Glass box — never by hand, always tongs or a dustpan |
@@ -71,5 +72,7 @@ Biohazardous carcasses go to the **DLAM biohazard freezer in the MRL vivarium, o
 Mixing incompatible waste streams is a common cause of laboratory accidents. Reactive mixtures rupture containers.
 
 ---
+
+*Reviewed 27 August 2026 against the lab's filed Biosafety Use Authorization.*
 
 [← All safety pages](/safety/) · [Spill response](/safety/spill/) · [UCLA hazardous waste and WASTe](https://ehs.ucla.edu/documents/Laboratory)
