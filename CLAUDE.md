@@ -64,10 +64,12 @@ These are deliberate. Do not "helpfully" reverse them.
    `/safety/` · `/safety/exposure/` · `/safety/spill/` · `/safety/waste/` ·
    `/safety/sops/` · `/safety/training/`
 
-   The five SOP pages added 25 Aug 2026 are permanent too, though not yet on
-   a printed label: `/safety/sops/sensitizers/` · `/safety/sops/sodium-azide/` ·
-   `/safety/sops/glutaraldehyde/` · `/safety/sops/guanidinium/` ·
-   `/safety/sops/potent-compounds/`. They live in flat files named
+   The lab-written SOP pages added 25 Aug 2026 are permanent too, though **not on
+   any printed label** — the labels and the directory poster carry only the six
+   router pages above: `/safety/sops/sensitizers/` · `/safety/sops/sodium-azide/` ·
+   `/safety/sops/guanidinium/` · `/safety/sops/potent-compounds/`.
+   `/safety/sops/glutaraldehyde/` was **deleted** 28 Aug 2026 when that SOP was
+   folded into Chemical Sensitizers; nothing printed pointed at it. They live in flat files named
    `safety/sop-<slug>.md` — a real `safety/sops/` directory would collide with
    `safety/sops.md`, which owns the `/safety/sops/` permalink.
 

@@ -15,13 +15,12 @@ Every SOP that applies in this lab. UCLA revises its standard SOPs, so those are
 
 ## Lab-written chemical SOPs
 
-Five hazards in this lab have no UCLA band. These SOPs are written by the lab and cover the gap. Each one names the UCLA banded SOP it supplements — read both.
+Four hazards in this lab have no UCLA band. These SOPs are written by the lab and cover the gap. Each one names the UCLA banded SOP it supplements — read both.
 
 | SOP | Covers | Read with |
 |---|---|---|
-| [**Chemical Sensitizers**](/safety/sops/sensitizers/) | H334 respiratory and H317 skin sensitizers — ammonium persulfate, G 418, DNase, transfer buffer, FITC-dextran | Oxidizers · Corrosives · Carcinogens |
+| [**Chemical Sensitizers**](/safety/sops/sensitizers/) | H334 respiratory and H317 skin sensitizers — glutaraldehyde, ammonium persulfate, G 418, DNase, transfer buffer, FITC-dextran | Oxidizers · Corrosives · Carcinogens |
 | [**Sodium Azide**](/safety/sops/sodium-azide/) | Solid azide and every azide-preserved antibody stock. Metal azides, drain ban | Acute Toxicants |
-| [**Glutaraldehyde**](/safety/sops/glutaraldehyde/) | 25% stock. Sensitization and the sub-odour-threshold irritant limit | Corrosives · Chemical Sensitizers |
 | [**Guanidinium Salt Lysis Reagents**](/safety/sops/guanidinium/) | QIAzol, TRIzol, RLT, AL/AW1. **Bleach contact releases cyanide gas** | Phenol · Acutely Toxic Corrosives |
 | [**Potent Bioactive Research Compounds**](/safety/sops/potent-compounds/) | Bafilomycin, Y-27632, DAPT, CCCP. DMSO stocks as systemic exposure | Novel Chemicals with Unknown Hazards |
 

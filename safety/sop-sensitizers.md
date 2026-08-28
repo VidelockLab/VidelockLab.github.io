@@ -18,7 +18,7 @@ This SOP covers chemicals in this laboratory classified as **respiratory sensiti
 ## Materials covered
 
 - **Ammonium persulfate** (7727-54-0) — H334, H317. Also covered by the [UCLA Oxidizers SOP](https://ucla.box.com/s/uxegmeszl7fo49jo8qc04lf9p7o2n6ly).
-- **Glutaraldehyde, 25% aqueous** (111-30-8) — H334, H317. Also covered by the [UCLA Corrosives SOP](https://ucla.box.com/s/u4n4t9u2vtwkp2176uxh8acac8wdt6q6) and by the lab [Glutaraldehyde SOP](/safety/sops/glutaraldehyde/).
+- **Glutaraldehyde, 25% aqueous** (111-30-8) — H334, H317. Also covered by the [UCLA Corrosives SOP](https://ucla.box.com/s/u4n4t9u2vtwkp2176uxh8acac8wdt6q6).
 - **Ammonium nickel(II) sulfate hexahydrate** (7785-20-8) — H334, H317. Also covered by the [UCLA Carcinogens & Reproductive Toxicants SOP](https://ucla.box.com/s/zky1chnhpy9yuhdn1uekz5m65hyewq7y).
 - **G 418 disulfate salt / Geneticin** (108321-42-2) — H334, H317.
 - **RNase-Free DNase Set**, Qiagen (contains lyophilised DNase I) — H334, H317.
