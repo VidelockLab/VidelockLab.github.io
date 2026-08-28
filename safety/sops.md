@@ -72,7 +72,7 @@ Hazards present in the lab that the chemical inventory does not track.
 
 The lab works with adeno-associated viral vectors, third-generation HIV-based lentiviral vectors, unfixed human intestinal, brain and blood-derived specimens, human and mouse cell lines and organoid cultures, and transgenic mice.
 
-**General practice** — incident response · biohazardous spill response · decontamination · donning and doffing PPE · hand sanitation · transport of biohazardous materials
+**General practice** — incident response · biohazardous spill response · donning and doffing PPE · hand sanitation · transport of biohazardous materials. **Decontamination** is the one exception: the lab follows its own modified copy of the EH&S SOP, which sets the minimum contact time for 10% bleach at 10 minutes. Ask the PI for it rather than using the EH&S version.
 
 **Equipment and technique** — biosafety cabinet use · sharps use · centrifugation · aerosol-generating equipment · aspiration flask · ELISA · imaging live cells · handling human materials outside a biosafety cabinet
 
@@ -88,7 +88,7 @@ All of these are at [ehs.ucla.edu/documents/biosafety](https://ehs.ucla.edu/docu
 
 The lab's own vector, human-specimen, incident-response and transport SOPs carry room-level detail and personal contact numbers, so they are **not published here**. Lab members: they are linked from the Slack canvas in `#lab-safety`, and the signed copies are in the safety manual.
 
-They cover lentiviral vectors, AAV in rodents, human tissue and blood-derived samples, biohazardous incident response, and transport of biohazardous materials — plus the completed Bloodborne Pathogen Exposure Control Plan and the lentivirus Post-Exposure Plan, which is the only Post-Exposure Plan this lab holds. Lab members: the current versions are the ones in the lab's Google Drive SOP folder.
+They cover lentiviral vectors, AAV in rodents, human tissue and blood-derived samples, biohazardous incident response, and transport of biohazardous materials — plus the lab's modified Decontamination SOP, the completed Bloodborne Pathogen Exposure Control Plan, and the lentivirus Post-Exposure Plan, which is the only Post-Exposure Plan this lab holds. Lab members: the current versions are the ones in the lab's Google Drive SOP folder.
 
 ---
 
