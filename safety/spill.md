@@ -24,7 +24,7 @@ permalink: /safety/spill/
 
 1. Keep the cabinet running.
 2. Cover the spill with absorbent material.
-3. Apply 10% bleach and leave the **full 10-minute contact time**.
+3. Apply 10% bleach and leave the **full 20-minute contact time**.
 4. Wipe up, then wipe with 70% ethanol to remove bleach residue.
 5. Dispose of everything used as biohazardous solid waste.
 6. Tell the PI and log it.
@@ -38,7 +38,7 @@ permalink: /safety/spill/
 3. Put on fresh PPE: gown, double gloves, eye protection.
 4. Pick up broken glass and sharps with **tongs, forceps, or a brush and dustpan** — never hands — into a sharps container.
 5. Cover the spill *and the whole splash zone* with absorbent.
-6. Apply 10% bleach, full contact time.
+6. Apply 10% bleach and leave the **full 20-minute contact time**.
 7. Dispose of absorbent as biohazardous solid waste.
 8. Disinfect all surfaces again.
 9. Remove PPE, wash hands.
@@ -70,7 +70,7 @@ A spill in a shared fume hood or shared equipment room affects people who are no
 
 ## Disinfectant
 
-**10% household bleach**, made fresh, **10-minute contact time**.
+**10% household bleach**, made fresh, **20-minute contact time** — the minimum on the UCLA EH&S approved-disinfectant list.
 
 70% ethanol is *not* a permitted disinfectant for human blood or other potentially infectious material in California. It is used only to remove bleach residue after the contact time has elapsed.
 

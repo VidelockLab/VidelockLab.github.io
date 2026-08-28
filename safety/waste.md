@@ -16,8 +16,8 @@ The rules below are the ones that get missed, taken from the [UCLA Chemical Hygi
 | Waste | Goes in |
 |---|---|
 | Tips, tubes, plates, gloves, gowns, absorbent, contaminated bedding | Rigid, hard-sided bin lined with a compliant **biohazard bag** |
-| Culture supernatant, used serum or plasma | Bleach to a final **10%**, hold 20 min to 1 hr, then drain with copious water |
-| Excess viral vector | Bleach to 10%, hold 10 min, drain |
+| Culture supernatant, used serum or plasma | Bleach to a final **10%**, hold **at least 20 minutes**, then drain with copious water |
+| Excess viral vector | Bleach to 10%, hold **at least 20 minutes**, drain |
 | Needles, blades, pins — **biohazardous** | **Red** biohazard sharps container |
 | Needles, blades, pins — **not** biohazardous | A sharps container that is **NOT red**, with a hazardous waste tag |
 | Intact tissue | Pathology waste, biohazard container |
