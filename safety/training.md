@@ -56,13 +56,26 @@ Skip this part if you will not handle animals or animal tissue.
 1. **Medical History Questionnaire** — [mhq.healthsciences.ucla.edu](https://mhq.healthsciences.ucla.edu) · annual
 2. **CITI — Animal Research** (General Certification Test) · every 3 years
 3. **CITI — Working with Mice in a Research Setting**
+4. **Identifying and Reporting Sick and Injured Rodents** — `DLAM-IRSIR-OL`
+5. **Rodent Euthanasia** — `DLAM-RE-PILS-OL`
+6. **DLAM Cage Side Communication Cards** — `DLAM-CSCC`
+7. **Species-specific training — Mouse** — done in the lab, with the PI. Hands-on, after the online courses above are complete.
+8. **Waste Anesthetic Gas** — `ENV-WAG-OL` · annual
+
+<!--
+DLAM-run species-specific training, retired 18 Sep 2026 when the lab moved to
+in-house training. Kept here in case it is needed again. These two steps sat
+where steps 4–7 are now:
+
 4. **Species-Specific Training – Mouse** — the DLAM wet lab. [How to sign up](https://dlam.dgsom.ucla.edu/education-and-training/training-requirements-for-arc-protocol). Bring your CITI certificate; the trainer has to see it before class starts. Printout or phone is fine.
 5. **DLAM vivarium walk-through**
-6. **Waste Anesthetic Gas** — `ENV-WAG-OL` · annual
 
 **If the mouse class is full**, sign up for the DLAM Mouse Class Queue/Waitlist on Worksafe — it is a placeholder rather than a real class, and DLAM will email priority enrollment when a place opens. New classes are listed on the last day of each month.
 
 Still can't get in? Tell the PI, who can arrange training in the lab rather than leaving you waiting.
+
+(The CITI section also said: "The mouse one is needed at the DLAM wet lab.")
+-->
 
 Questions: DLAMTraining@mednet.ucla.edu
 
@@ -93,7 +106,7 @@ The first time in, CITI shows a page called **Select Curriculum**. Section One a
 
 Then answer the follow-up questions for each box you ticked. Under animal research, choose **Animal Research (ARC General Certification Test)** and **Working with Mice in Research Settings**.
 
-Download your completion certificates when you finish. The mouse one is needed at the DLAM wet lab.
+Download your completion certificates when you finish.
 
 ---
 
@@ -103,6 +116,6 @@ Before any bench work, and once a year after: read the safety manual, read the S
 
 ---
 
-*Course IDs from the [UCLA EH&S Research Safety Training Guide](https://ucla.app.box.com/v/EHS-trainingmatrix), rev. 05/11/22. The matrix is the authority — check it when a role or a hazard changes. Reviewed 23 August 2026.*
+*Course IDs from the [UCLA EH&S Research Safety Training Guide](https://ucla.app.box.com/v/EHS-trainingmatrix), rev. 05/11/22. The matrix is the authority — check it when a role or a hazard changes. Reviewed 18 September 2026.*
 
 [← All safety pages](/safety/) · [Procedures](/safety/sops/)
